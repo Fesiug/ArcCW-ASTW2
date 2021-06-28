@@ -1,0 +1,9 @@
+// Created by Crowbar 0.68
+version 1
+nodes
+  0 "w_eq_eholster1" -1
+end
+skeleton
+  time 0
+    0 0.131104 -0.511230 -0.921875 1.580268 0.136326 0.222739
+end

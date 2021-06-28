@@ -1,0 +1,11 @@
+// Created by Crowbar 0.68
+version 1
+nodes
+  0 "ValveBiped.Bip01_Pelvis" -1
+  1 "ValveBiped.Bip01_Spine" -1
+end
+skeleton
+  time 0
+    0 0.000000 -7.062500 2.699219 1.570792 0.000003 -0.000003
+    1 0.000000 -4.082031 6.042969 1.570786 -1.487605 -4.712376
+end

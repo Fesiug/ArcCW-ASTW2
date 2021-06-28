@@ -1,0 +1,14 @@
+{
+	"title" :	"[ArcCW] ASTW2",
+	"type"  :	"weapon",
+	"tags"  :	[],
+	"ignore":
+	[
+		"*.cmd",
+		"*.ini",
+		"*.lnk",
+		"*.url",
+		"bnwb.jpg",
+		"bnwb.png"
+	]
+}
